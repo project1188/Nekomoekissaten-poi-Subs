@@ -1,0 +1,312 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tsurezure Children 06 [BDRip 1080p HEVC-10bit FLAC_AC-3].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Tsurezure Children,方正准圆_GBK,47,&H0030AA32,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,10,10,10,1
+Style: title,@FZLanTingHei-EL-GBK,50,&H00FFFFFF,&H000000FF,&H00555658,&H00000000,0,0,0,0,100,100,2,-90,1,3,0,2,10,10,10,1
+Style: children opjp,FOT-RodinBokutoh Pro DB,50,&H00FFFFFF,&H000000FF,&H00AA71ED,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: children opch,FZLanTingHei-DB-GBK,45,&H00FFFFFF,&H000000FF,&H00AA71ED,&H00000000,0,0,0,0,100,100,3,0,1,2,0,8,10,10,15,1
+Style: comment,方正准圆_GBK,40,&H0030AA32,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,2,0,7,10,10,10,1
+Style: children edjp,FOT-Skip ProN D,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,1,0,1,10,10,5,1
+Style: children edch,FZZhengHei-M-GBK,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,10,10,5,1
+Style: title2,FZLanTingHei-EL-GBK,50,&H00FFFFFF,&H000000FF,&H00555658,&H00000000,0,0,0,0,100,100,2,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Tsurezure Children,,0,0,0,,-------------------STAFF-------------------
+Dialogue: 0,0:00:58.29,0:01:00.04,Tsurezure Children,,0,0,0,,{\an8\fs40\bord2\blur2\c&H00FFFFFF\3c&H00A27DE1\fad(450,0)\fn方正兰亭准黑_GBK}本字幕由喵萌奶茶屋制作 若喜欢请支持正版 谢谢合作
+Dialogue: 0,0:00:58.29,0:01:00.04,Tsurezure Children,,0,0,0,,{\an\fs40\bord2\blur2\c&H00FFFFFF\3c&H00A27DE1\fad(450,0)\fn方正兰亭准黑_GBK}初翻：橙橙 黑萌菌  校对：黑萌菌  时后：夕儿  繁化：风风
+Dialogue: 0,0:03:52.96,0:03:57.80,title2,,0,0,0,,{\c&H00FFFFFF\blur5\3c&H00434859\fad(500,500)\fsp5\pos(226.741,718.153)}X文件
+Dialogue: 0,0:06:14.48,0:06:20.48,title2,,0,0,0,,{\c&H00FFFFFF\3c&H00777071\blur5\fad(800,500)\pos(604.076,532.552)}我们不需要妹纸
+Dialogue: 0,0:09:53.99,0:09:57.95,title2,,0,0,0,,{\c&H00FFFFFF\3c&H003E4450\blur5\fad(500,500)\pos(988.876,591.752)}恋爱达人
+Dialogue: 0,0:12:27.60,0:12:29.98,title2,,0,0,0,,{\c&H00FFFFFF\3c&H00686D73\blur5\fad(500,0)\pos(632.964,471.219)}都是发烧的错
+Comment: 0,0:00:55.12,0:00:57.12,Tsurezure Children,,0,0,0,,-------------------text-------------------
+Dialogue: 0,0:01:01.08,0:01:02.42,Tsurezure Children,,0,0,0,,所以说 关于这题…
+Dialogue: 0,0:01:02.42,0:01:04.17,Tsurezure Children,,0,0,0,,哈? 听不懂啊
+Dialogue: 0,0:01:05.42,0:01:09.01,Tsurezure Children,,0,0,0,,赤木… 你为什么要和我交往啊
+Dialogue: 0,0:01:09.13,0:01:10.13,Tsurezure Children,,0,0,0,,小亮
+Dialogue: 0,0:01:10.80,0:01:12.80,Tsurezure Children,,0,0,0,,不该叫赤木而是小正吧
+Dialogue: 0,0:01:14.18,0:01:15.93,Tsurezure Children,,0,0,0,,你真要叫这个啊
+Dialogue: 0,0:01:16.31,0:01:19.06,Tsurezure Children,,0,0,0,,不老实这么叫 我就不帮你做题了
+Dialogue: 0,0:01:21.48,0:01:22.69,Tsurezure Children,,0,0,0,,小正…
+Dialogue: 0,0:01:22.73,0:01:25.52,Tsurezure Children,,0,0,0,,听不到呢 你再近点说啊
+Dialogue: 0,0:01:26.15,0:01:27.07,Tsurezure Children,,0,0,0,,小正!!
+Dialogue: 0,0:01:28.48,0:01:30.86,Tsurezure Children,,0,0,0,,真是!! 现在在讨论很正经的问题吧
+Dialogue: 0,0:01:31.07,0:01:32.66,Tsurezure Children,,0,0,0,,明明亲一下就知道了
+Dialogue: 0,0:01:32.74,0:01:35.66,Tsurezure Children,,0,0,0,,我是在问你和我交往是喜欢我哪里!
+Dialogue: 0,0:01:35.91,0:01:38.16,Tsurezure Children,,0,0,0,,唔… 哪里呢
+Dialogue: 0,0:01:41.33,0:01:43.79,Tsurezure Children,,0,0,0,,所以说现在在讨论很正经的问题吧
+Dialogue: 0,0:01:43.83,0:01:45.46,Tsurezure Children,,0,0,0,,明明亲一下就知道了
+Dialogue: 0,0:01:46.67,0:01:47.96,Tsurezure Children,,0,0,0,,小亮的优点?
+Dialogue: 0,0:01:48.30,0:01:49.13,Tsurezure Children,,0,0,0,,脸吧…
+Dialogue: 0,0:01:49.21,0:01:51.88,Tsurezure Children,,0,0,0,,哈!? 那性格什么的都无所谓了?
+Dialogue: 0,0:01:52.22,0:01:54.01,Tsurezure Children,,0,0,0,,但是小亮你长得很可爱哟
+Dialogue: 0,0:01:54.26,0:01:57.14,Tsurezure Children,,0,0,0,,你都完全没关注我的内在么!
+Dialogue: 0,0:01:57.18,0:01:58.85,Tsurezure Children,,0,0,0,,因为 小亮很可爱啊
+Dialogue: 0,0:01:59.02,0:02:01.02,Tsurezure Children,,0,0,0,,不对 所以说不是这个问题…
+Dialogue: 0,0:02:01.18,0:02:02.64,Tsurezure Children,,0,0,0,,很可爱哟 小亮～
+Dialogue: 0,0:02:02.77,0:02:04.60,Tsurezure Children,,0,0,0,,啊!真是的! 好啰嗦啊!
+Dialogue: 0,0:02:05.44,0:02:08.57,Tsurezure Children,,0,0,0,,那 要是有比我可爱的女生不马上就变心了!?
+Dialogue: 0,0:02:08.78,0:02:09.90,Tsurezure Children,,0,0,0,,嘛 可能性也…
+Dialogue: 0,0:02:09.94,0:02:10.57,Tsurezure Children,,0,0,0,,去死!!
+Dialogue: 0,0:02:10.86,0:02:13.49,Tsurezure Children,,0,0,0,,别闹别扭嘛 还有好多其他优点哟
+Dialogue: 0,0:02:13.99,0:02:14.82,Tsurezure Children,,0,0,0,,比如胸…
+Dialogue: 0,0:02:14.95,0:02:17.03,Tsurezure Children,,0,0,0,,长相也好胸部也好全是这些
+Dialogue: 0,0:02:17.12,0:02:19.29,Tsurezure Children,,0,0,0,,你根本就没关注过我的内在对吧
+Dialogue: 0,0:02:19.45,0:02:21.83,Tsurezure Children,,0,0,0,,真是的… 我没说过这种话吧
+Dialogue: 0,0:02:22.33,0:02:25.25,Tsurezure Children,,0,0,0,,我可是一直 有想要关注小亮的内在美的
+Dialogue: 0,0:02:25.96,0:02:27.84,Tsurezure Children,,0,0,0,,那 我哪里好?
+Dialogue: 0,0:02:28.21,0:02:28.80,Tsurezure Children,,0,0,0,,没有
+Dialogue: 0,0:02:31.21,0:02:32.80,Tsurezure Children,,0,0,0,,没有… 一个都?
+Dialogue: 0,0:02:32.88,0:02:33.59,Tsurezure Children,,0,0,0,,没有呢
+Dialogue: 0,0:02:33.76,0:02:36.30,Tsurezure Children,,0,0,0,,正如你自己说的那样 又易怒又粗野
+Dialogue: 0,0:02:36.89,0:02:38.85,Tsurezure Children,,0,0,0,,真对不起了呢… 反正我…
+Dialogue: 0,0:02:38.89,0:02:41.72,Tsurezure Children,,0,0,0,,这种喜欢闹别扭的性子也很麻烦呢
+Dialogue: 0,0:02:42.06,0:02:44.94,Tsurezure Children,,0,0,0,,真是的! 那赶紧分手不就好了么!
+Dialogue: 0,0:02:44.98,0:02:46.81,Tsurezure Children,,0,0,0,,你又说这种话
+Dialogue: 0,0:02:47.44,0:02:49.48,Tsurezure Children,,0,0,0,,虽然你到处都是缺点
+Dialogue: 0,0:02:49.57,0:02:51.78,Tsurezure Children,,0,0,0,,啰嗦! 我什么都不想听!
+Dialogue: 0,0:02:52.57,0:02:53.57,Tsurezure Children,,0,0,0,,但是喜欢你哦
+Dialogue: 0,0:02:55.57,0:02:57.99,Tsurezure Children,,0,0,0,,反正你也会说喜欢胸吧
+Dialogue: 0,0:02:58.20,0:03:00.12,Tsurezure Children,,0,0,0,,也喜欢小亮你的性格哦
+Dialogue: 0,0:03:00.74,0:03:03.29,Tsurezure Children,,0,0,0,,易怒的性子也好粗野的性子也好全部包含在内
+Dialogue: 0,0:03:03.29,0:03:04.71,Tsurezure Children,,0,0,0,,我对小亮你…
+Dialogue: 0,0:03:05.08,0:03:06.08,Tsurezure Children,,0,0,0,,无比LOVE
+Dialogue: 0,0:03:07.92,0:03:09.42,Tsurezure Children,,0,0,0,,开心的话表现出来也没关系哟
+Dialogue: 0,0:03:09.46,0:03:10.84,Tsurezure Children,,0,0,0,,好烦啊!!
+Dialogue: 0,0:03:10.92,0:03:12.13,Tsurezure Children,,0,0,0,,但是是真的哟
+Dialogue: 0,0:03:12.30,0:03:14.51,Tsurezure Children,,0,0,0,,虽说因为你太可爱总忍不住想欺负
+Dialogue: 0,0:03:15.55,0:03:18.18,Tsurezure Children,,0,0,0,,那 再说一遍 喜欢我
+Dialogue: 0,0:03:18.76,0:03:21.01,Tsurezure Children,,0,0,0,,嗯? 不用说「最喜欢」也没事么
+Dialogue: 0,0:03:21.22,0:03:22.93,Tsurezure Children,,0,0,0,,那就说「最喜欢」!
+Dialogue: 0,0:03:23.10,0:03:25.02,Tsurezure Children,,0,0,0,,「请说」 才对吧
+Dialogue: 0,0:03:26.27,0:03:27.35,Tsurezure Children,,0,0,0,,请说…
+Dialogue: 0,0:03:27.56,0:03:28.31,Tsurezure Children,,0,0,0,,「小正」呢?
+Dialogue: 0,0:03:28.44,0:03:30.44,Tsurezure Children,,0,0,0,,喂 你快说啊
+Dialogue: 0,0:03:31.02,0:03:31.61,Tsurezure Children,,0,0,0,,小亮
+Dialogue: 0,0:03:32.48,0:03:33.03,Tsurezure Children,,0,0,0,,我爱你
+Dialogue: 0,0:03:36.61,0:03:38.70,Tsurezure Children,,0,0,0,,前不久和男友氛围很好
+Dialogue: 0,0:03:39.45,0:03:40.91,Tsurezure Children,,0,0,0,,但是没能成功
+Dialogue: 0,0:03:42.62,0:03:45.25,Tsurezure Children,,0,0,0,,最近连电视剧也都是特摄了呢
+Dialogue: 0,0:03:45.25,0:03:46.54,Tsurezure Children,,0,0,0,,那之后总感觉
+Dialogue: 0,0:03:46.66,0:03:48.96,Tsurezure Children,,0,0,0,,说相互之间都不太积极也好
+Dialogue: 0,0:03:49.17,0:03:51.38,Tsurezure Children,,0,0,0,,说在逃避着这种事也好
+Dialogue: 0,0:03:51.88,0:03:52.63,Tsurezure Children,,0,0,0,,为啥呢
+Dialogue: 0,0:03:53.71,0:03:57.55,Tsurezure Children,,0,0,0,,是觉得前不久那事没成功很丢脸么
+Dialogue: 0,0:03:58.22,0:04:00.34,Tsurezure Children,,0,0,0,,但是我对这事完全不在意
+Dialogue: 0,0:04:00.60,0:04:02.56,Tsurezure Children,,0,0,0,,再使劲对我出手也没什么…
+Dialogue: 0,0:04:02.93,0:04:05.85,Tsurezure Children,,0,0,0,,说来 要是我来说这话总觉得有点那啥呢…
+Dialogue: 0,0:04:05.98,0:04:07.31,Tsurezure Children,,0,0,0,,所以香奈你看过么?
+Dialogue: 0,0:04:07.48,0:04:09.98,Tsurezure Children,,0,0,0,,诶!?那个 在聊什么来的?
+Dialogue: 0,0:04:09.98,0:04:10.69,Tsurezure Children,,0,0,0,,砰～
+Dialogue: 0,0:04:10.69,0:04:11.27,Tsurezure Children,,0,0,0,,啊！
+Dialogue: 0,0:04:11.56,0:04:12.90,Tsurezure Children,,0,0,0,,在聊电视剧
+Dialogue: 0,0:04:12.90,0:04:14.57,Tsurezure Children,,0,0,0,,最近「砰」也总是老样子
+Dialogue: 0,0:04:14.57,0:04:16.44,Tsurezure Children,,0,0,0,,不是说好在电视剧里找新段子么
+Dialogue: 0,0:04:18.49,0:04:20.70,Tsurezure Children,,0,0,0,,总而言之 先设定为警察和犯人…
+Dialogue: 0,0:04:20.74,0:04:22.87,Tsurezure Children,,0,0,0,,等等 那个我没看过
+Dialogue: 0,0:04:22.99,0:04:25.12,Tsurezure Children,,0,0,0,,没事的 我会起劲的演的
+Dialogue: 0,0:04:25.16,0:04:26.33,Tsurezure Children,,0,0,0,,香奈也起劲的跟着来～
+Dialogue: 0,0:04:26.66,0:04:29.96,Tsurezure Children,,0,0,0,,说实话 现在段子什么的都无所谓呢…
+Dialogue: 0,0:04:31.17,0:04:33.79,Tsurezure Children,,0,0,0,,FBI!! 两手放到脑后!
+Dialogue: 0,0:04:34.05,0:04:35.21,Tsurezure Children,,0,0,0,,等 等一下…
+Dialogue: 0,0:04:35.25,0:04:37.01,Tsurezure Children,,0,0,0,,眼睛闭上 不要反抗!
+Dialogue: 0,0:04:39.59,0:04:41.55,Tsurezure Children,,0,0,0,,蠢货 大意了吧!
+Dialogue: 0,0:04:45.68,0:04:47.14,Tsurezure Children,,0,0,0,,呼呼… 您也是恶人呀
+Dialogue: 0,0:04:47.43,0:04:49.27,Tsurezure Children,,0,0,0,,代…代官您才是…
+Dialogue: 0,0:04:47.43,0:04:49.27,comment,,0,0,0,,注：日本时代剧里面这两句话作为恶衙役与坏商人之间的标准对白而广为传播。
+Dialogue: 0,0:04:47.43,0:04:49.27,comment,,0,0,0,,日语对白：「お主も悪よのう」「お代官こそ…」
+Dialogue: 0,0:04:49.39,0:04:52.02,Tsurezure Children,,0,0,0,,那个 中途好像换角色了
+Dialogue: 0,0:04:52.10,0:04:55.32,Tsurezure Children,,0,0,0,,啊 也是呢 哈哈哈…
+Dialogue: 0,0:04:56.98,0:04:59.78,Tsurezure Children,,0,0,0,,难道说这货 准备亲我的?
+Dialogue: 0,0:05:00.57,0:05:01.24,Tsurezure Children,,0,0,0,,（害羞…）
+Dialogue: 0,0:05:01.57,0:05:04.41,Tsurezure Children,,0,0,0,,诶?诶? 难道这是段子里的剧情?
+Dialogue: 0,0:05:04.53,0:05:07.04,Tsurezure Children,,0,0,0,,不不不… 不会吧～
+Dialogue: 0,0:05:07.41,0:05:09.50,Tsurezure Children,,0,0,0,,那这回 我演外星人
+Dialogue: 0,0:05:09.54,0:05:11.42,Tsurezure Children,,0,0,0,,不会吧!!
+Dialogue: 0,0:05:11.67,0:05:13.54,Tsurezure Children,,0,0,0,,这次 香奈你来当FBI
+Dialogue: 0,0:05:14.04,0:05:15.88,Tsurezure Children,,0,0,0,,那个 我尽力
+Dialogue: 0,0:05:16.30,0:05:17.76,Tsurezure Children,,0,0,0,,就假设下哦
+Dialogue: 0,0:05:17.80,0:05:19.34,Tsurezure Children,,0,0,0,,就算他刚才是准备亲我
+Dialogue: 0,0:05:19.38,0:05:20.80,Tsurezure Children,,0,0,0,,这剧本应该没法再…
+Dialogue: 0,0:05:23.01,0:05:25.64,Tsurezure Children,,0,0,0,,不会吧! 不会吧!
+Dialogue: 0,0:05:26.56,0:05:28.77,Tsurezure Children,,0,0,0,,不要靠近了! 再靠近就射你哦!
+Dialogue: 0,0:05:29.02,0:05:30.23,Tsurezure Children,,0,0,0,,砰～砰～
+Dialogue: 0,0:05:32.27,0:05:33.73,Tsurezure Children,,0,0,0,,认真的!?
+Dialogue: 0,0:05:43.70,0:05:44.70,Tsurezure Children,,0,0,0,,就这感觉…
+Dialogue: 0,0:05:45.66,0:05:46.78,Tsurezure Children,,0,0,0,,啊 就那个
+Dialogue: 0,0:05:47.16,0:05:48.62,Tsurezure Children,,0,0,0,,这段子结尾不好笑呢
+Dialogue: 0,0:05:48.70,0:05:50.66,Tsurezure Children,,0,0,0,,不再仔细构思下的话
+Dialogue: 0,0:05:50.87,0:05:52.04,Tsurezure Children,,0,0,0,,那个啊!
+Dialogue: 0,0:05:56.67,0:05:57.63,Tsurezure Children,,0,0,0,,回去吧…
+Dialogue: 0,0:05:58.13,0:05:58.50,Tsurezure Children,,0,0,0,,嗯…
+Dialogue: 0,0:06:00.97,0:06:02.80,Tsurezure Children,,0,0,0,,我听说你喜欢电影
+Dialogue: 0,0:06:03.18,0:06:04.80,Tsurezure Children,,0,0,0,,你有时间的话…
+Dialogue: 0,0:06:06.01,0:06:07.14,Tsurezure Children,,0,0,0,,也不是不可以…
+Dialogue: 0,0:06:07.64,0:06:09.68,Tsurezure Children,,0,0,0,,那明天电影院见
+Dialogue: 0,0:06:12.23,0:06:15.73,Tsurezure Children,,0,0,0,,山根阁下 考试怎么样啦
+Dialogue: 0,0:06:15.77,0:06:17.40,Tsurezure Children,,0,0,0,,本山君 还行啦
+Dialogue: 0,0:06:17.77,0:06:20.07,Tsurezure Children,,0,0,0,,刚刚是在想明天的安排么
+Dialogue: 0,0:06:20.15,0:06:22.86,Tsurezure Children,,0,0,0,,不记得了! 你说什么呢听不懂…
+Dialogue: 0,0:06:22.90,0:06:25.16,Tsurezure Children,,0,0,0,,明天不是说好和我一起去看电影吗
+Dialogue: 0,0:06:25.36,0:06:29.04,Tsurezure Children,,0,0,0,,其实我太期待了以至于没心思考试呢
+Dialogue: 0,0:06:29.99,0:06:31.70,Tsurezure Children,,0,0,0,,约好的是明天的么?
+Dialogue: 0,0:06:31.75,0:06:35.17,Tsurezure Children,,0,0,0,,哦呀 忘了么?不是要看魔法小新吗
+Dialogue: 0,0:06:35.17,0:06:38.63,Tsurezure Children,,0,0,0,,我可是每年都看不够魔法小新的啊!
+Dialogue: 0,0:06:39.25,0:06:41.71,Tsurezure Children,,0,0,0,,这个啊 明天以后不可以么 其实我
+Dialogue: 0,0:06:44.47,0:06:48.26,Tsurezure Children,,0,0,0,,莫非 不是有妹子了吧
+Dialogue: 0,0:06:45.51,0:06:48.55,comment,,0,0,0,,怨(女)念(人)
+Dialogue: 0,0:06:49.93,0:06:50.97,Tsurezure Children,,0,0,0,,没
+Dialogue: 0,0:06:51.31,0:06:54.98,Tsurezure Children,,0,0,0,,哈哈哈 跟你开玩笑呢 山根阁下怎么会有妹子
+Dialogue: 0,0:06:55.02,0:06:56.40,Tsurezure Children,,0,0,0,,当然啦
+Dialogue: 0,0:06:56.40,0:06:59.27,Tsurezure Children,,0,0,0,,那些嘲笑我们挫男的傲慢的猪们
+Dialogue: 0,0:06:59.27,0:07:02.19,Tsurezure Children,,0,0,0,,不值得我们浪费宝贵的青春
+Dialogue: 0,0:07:02.19,0:07:04.70,Tsurezure Children,,0,0,0,,必 必须的 我也讨厌妹子的哟
+Dialogue: 0,0:07:04.78,0:07:06.86,Tsurezure Children,,0,0,0,,这次也是被男性朋友约…
+Dialogue: 0,0:07:06.99,0:07:09.41,Tsurezure Children,,0,0,0,,哦呀 你除了我还有别的朋友么
+Dialogue: 0,0:07:10.28,0:07:12.79,Tsurezure Children,,0,0,0,,中 中学时候的朋友啦
+Dialogue: 0,0:07:12.87,0:07:14.16,Tsurezure Children,,0,0,0,,偶尔也会一起见个面
+Dialogue: 0,0:07:14.16,0:07:15.96,Tsurezure Children,,0,0,0,,原来是这样啊
+Dialogue: 0,0:07:17.33,0:07:20.25,Tsurezure Children,,0,0,0,,那我本山友道就把这个预约让出来
+Dialogue: 0,0:07:20.88,0:07:22.88,Tsurezure Children,,0,0,0,,我们总是遭人鄙弃
+Dialogue: 0,0:07:23.26,0:07:25.68,Tsurezure Children,,0,0,0,,因此朋友之间的羁绊是至高无上的宝物
+Dialogue: 0,0:07:25.72,0:07:27.89,Tsurezure Children,,0,0,0,,下次给我介绍介绍吧
+Dialogue: 0,0:07:27.97,0:07:30.18,Tsurezure Children,,0,0,0,,本 本山君!
+Dialogue: 0,0:07:30.51,0:07:32.72,Tsurezure Children,,0,0,0,,{\an8}电影我一个人看就可以了
+Dialogue: 0,0:07:31.14,0:07:33.52,Tsurezure Children,,0,0,0,,多好的人啊 本山君
+Dialogue: 0,0:07:33.72,0:07:35.18,Tsurezure Children,,0,0,0,,然而我却…
+Dialogue: 0,0:07:35.69,0:07:39.19,Tsurezure Children,,0,0,0,,我却不惜说谎去跟女生…
+Dialogue: 0,0:07:39.48,0:07:41.23,Tsurezure Children,,0,0,0,,那明天电影院见
+Dialogue: 0,0:07:41.82,0:07:44.44,Tsurezure Children,,0,0,0,,我这样的人渣不需要妹子!
+Dialogue: 0,0:07:45.15,0:07:47.28,Tsurezure Children,,0,0,0,,抱歉本山君 我说谎了
+Dialogue: 0,0:07:47.28,0:07:47.99,Tsurezure Children,,0,0,0,,什么!
+Dialogue: 0,0:07:48.16,0:07:49.32,Tsurezure Children,,0,0,0,,朋友什么的不存在的
+Dialogue: 0,0:07:49.45,0:07:51.78,Tsurezure Children,,0,0,0,,通讯录也就只有你和家里的电话 其实…
+Dialogue: 0,0:07:51.78,0:07:52.91,Tsurezure Children,,0,0,0,,山根阁下
+Dialogue: 0,0:07:53.20,0:07:55.79,Tsurezure Children,,0,0,0,,你居然能告诉我这么羞耻的事实
+Dialogue: 0,0:07:55.87,0:07:58.92,Tsurezure Children,,0,0,0,,我还是第一次有你这样的推心置腹的朋友呢
+Dialogue: 0,0:08:00.08,0:08:01.63,Tsurezure Children,,0,0,0,,本山君!
+Dialogue: 0,0:08:01.96,0:08:04.55,Tsurezure Children,,0,0,0,,明天山根阁下有其他事情的吧
+Dialogue: 0,0:08:04.67,0:08:06.67,Tsurezure Children,,0,0,0,,既然是特意隐瞒的事情的话
+Dialogue: 0,0:08:06.80,0:08:08.59,Tsurezure Children,,0,0,0,,我也不会深究的啦
+Dialogue: 0,0:08:08.72,0:08:10.97,Tsurezure Children,,0,0,0,,没关系的 既然是朋友就全部告诉你吧
+Dialogue: 0,0:08:11.18,0:08:14.89,Tsurezure Children,,0,0,0,,其实是被一个不熟的女生邀请去看电影了
+Dialogue: 0,0:08:16.35,0:08:19.06,Tsurezure Children,,0,0,0,,其实之前也有一起吃过饭
+Dialogue: 0,0:08:19.23,0:08:21.31,Tsurezure Children,,0,0,0,,但是那时候完全聊不起来
+Dialogue: 0,0:08:21.36,0:08:22.40,Tsurezure Children,,0,0,0,,不知道为什么被邀请了呢
+Dialogue: 0,0:08:28.49,0:08:33.78,Tsurezure Children,,0,0,0,,不惜跟我说谎也要隐瞒的事情竟然是妹子!?
+Dialogue: 0,0:08:33.87,0:08:36.45,Tsurezure Children,,0,0,0,,抱歉本山君 但是明天会和你…
+Dialogue: 0,0:08:36.50,0:08:38.91,Tsurezure Children,,0,0,0,,这种时候当然该选女朋友啊!
+Dialogue: 0,0:08:41.92,0:08:44.25,Tsurezure Children,,0,0,0,,当然我也很讨厌妹子
+Dialogue: 0,0:08:44.34,0:08:48.47,Tsurezure Children,,0,0,0,,她们看脏东西一样的那双眼睛我恨不得全弄瞎
+Dialogue: 0,0:08:48.80,0:08:53.93,Tsurezure Children,,0,0,0,,但是话虽如此 愿意和山根阁下一样的挫男说话的纯洁的少女
+Dialogue: 0,0:08:53.97,0:08:56.02,Tsurezure Children,,0,0,0,,我怎么能有意见呢
+Dialogue: 0,0:08:56.31,0:08:58.64,Tsurezure Children,,0,0,0,,我… 我…
+Dialogue: 0,0:08:58.73,0:09:01.19,Tsurezure Children,,0,0,0,,真替你高兴啊啊啊
+Dialogue: 0,0:09:01.27,0:09:04.40,Tsurezure Children,,0,0,0,,本山啊啊啊
+Dialogue: 0,0:09:05.65,0:09:08.19,Tsurezure Children,,0,0,0,,你跟那个女生已经在交往了吗
+Dialogue: 0,0:09:08.24,0:09:10.24,Tsurezure Children,,0,0,0,,怎么可能 并没有啊
+Dialogue: 0,0:09:10.40,0:09:11.61,Tsurezure Children,,0,0,0,,真的只是普通朋友
+Dialogue: 0,0:09:11.66,0:09:13.24,Tsurezure Children,,0,0,0,,但是说朋友其实也有点冒昧
+Dialogue: 0,0:09:13.28,0:09:16.54,Tsurezure Children,,0,0,0,,她怎么想的我也不清楚这么个状况
+Dialogue: 0,0:09:16.62,0:09:18.58,Tsurezure Children,,0,0,0,,原来如此 单纯的交际么
+Dialogue: 0,0:09:18.95,0:09:21.00,Tsurezure Children,,0,0,0,,可以的话本山君也一起来吧
+Dialogue: 0,0:09:21.33,0:09:23.17,Tsurezure Children,,0,0,0,,她也可能带朋友过去
+Dialogue: 0,0:09:23.21,0:09:24.71,Tsurezure Children,,0,0,0,,要是你不反感的话…
+Dialogue: 0,0:05:58.50,0:06:00.09,Tsurezure Children,,0,0,0,,{\pos(174.4,586.8)\fs40\c&H001E1E1E\b1\bord0}结\N束
+Dialogue: 0,0:09:25.46,0:09:28.09,Tsurezure Children,,0,0,0,,山根阁下的朋友的话没关系的
+Dialogue: 0,0:09:27.96,0:09:29.13,Tsurezure Children,,0,0,0,,{\pos(174.4,586.8)\fs40\c&H001E1E1E\b1\bord0}结\N束
+Dialogue: 0,0:09:31.43,0:09:33.59,Tsurezure Children,,0,0,0,,经常有人来找我咨询恋爱方面的事情
+Dialogue: 0,0:09:34.01,0:09:36.39,Tsurezure Children,,0,0,0,,但是我还没有跟人交往过
+Dialogue: 0,0:09:38.39,0:09:40.48,Tsurezure Children,,0,0,0,,为什么要找我商量呢
+Dialogue: 0,0:09:40.64,0:09:41.89,Tsurezure Children,,0,0,0,,我也想谈场…
+Dialogue: 0,0:09:42.27,0:09:43.23,Tsurezure Children,,0,0,0,,啊嘞
+Dialogue: 0,0:09:45.73,0:09:46.36,Tsurezure Children,,0,0,0,,谁
+Dialogue: 0,0:09:46.48,0:09:50.15,Tsurezure Children,,0,0,0,,抱歉 但是我并没有俯视女生的爱好呢
+Dialogue: 0,0:09:51.07,0:09:53.70,Tsurezure Children,,0,0,0,,搞什么这个男的 为什么在树上
+Dialogue: 0,0:09:54.11,0:09:55.62,Tsurezure Children,,0,0,0,,出来吧小猫咪
+Dialogue: 0,0:10:00.54,0:10:03.00,Tsurezure Children,,0,0,0,,你刚是救了下不来的小猫咪么
+Dialogue: 0,0:10:03.42,0:10:05.88,Tsurezure Children,,0,0,0,,什么 只是想爬一下树而已啦
+Dialogue: 0,0:10:06.04,0:10:07.46,Tsurezure Children,,0,0,0,,所以 你在烦恼什么呢
+Dialogue: 0,0:10:07.71,0:10:09.21,Tsurezure Children,,0,0,0,,果然听到了么
+Dialogue: 0,0:10:09.42,0:10:13.80,Tsurezure Children,,0,0,0,,并不 只是你跟那只猫一样露着困扰着的眼神啦～
+Dialogue: 0,0:10:15.76,0:10:16.47,Tsurezure Children,,0,0,0,,喵
+Dialogue: 0,0:10:17.85,0:10:21.89,Tsurezure Children,,0,0,0,,这人怎么回事 把人比作可爱的小猫咪
+Dialogue: 0,0:10:22.64,0:10:25.69,Tsurezure Children,,0,0,0,,莫非你觉得我是恋爱达人么?
+Dialogue: 0,0:10:26.02,0:10:27.27,Tsurezure Children,,0,0,0,,诶 也不至于
+Dialogue: 0,0:10:27.69,0:10:28.73,Tsurezure Children,,0,0,0,,正解
+Dialogue: 0,0:10:29.48,0:10:32.40,Tsurezure Children,,0,0,0,,恋爱达人?你觉得很帅气么
+Dialogue: 0,0:10:32.70,0:10:34.57,Tsurezure Children,,0,0,0,,怎么会帅气呢
+Dialogue: 0,0:10:35.45,0:10:40.08,Tsurezure Children,,0,0,0,,这种人更多地是弄哭女生而不是让女生笑吧
+Dialogue: 0,0:10:41.20,0:10:43.83,Tsurezure Children,,0,0,0,,糟糕 我要是有达人的名头的话
+Dialogue: 0,0:10:43.87,0:10:46.17,Tsurezure Children,,0,0,0,,会惹怒恋爱的神明的 糟糕
+Dialogue: 0,0:10:47.75,0:10:49.17,Tsurezure Children,,0,0,0,,好帅气
+Dialogue: 0,0:10:50.13,0:10:51.34,Tsurezure Children,,0,0,0,,这感觉怎么回事
+Dialogue: 0,0:10:51.80,0:10:53.84,Tsurezure Children,,0,0,0,,我 对这个人…
+Dialogue: 0,0:10:54.17,0:10:57.05,Tsurezure Children,,0,0,0,,来吧 什么都可以跟我说的 可以的话
+Dialogue: 0,0:10:57.64,0:11:00.47,Tsurezure Children,,0,0,0,,你 是我的王子吗
+Dialogue: 0,0:11:00.89,0:11:01.52,Tsurezure Children,,0,0,0,,嗯
+Dialogue: 0,0:11:02.22,0:11:03.35,Tsurezure Children,,0,0,0,,那跟我…
+Dialogue: 0,0:11:03.39,0:11:04.77,Tsurezure Children,,0,0,0,,这可不行哟 小猫咪
+Dialogue: 0,0:11:05.02,0:11:06.85,Tsurezure Children,,0,0,0,,因为我是大家的王子
+Dialogue: 0,0:11:07.23,0:11:09.57,Tsurezure Children,,0,0,0,,看上我的话 会受伤的哟
+Dialogue: 0,0:11:11.48,0:11:12.86,Tsurezure Children,,0,0,0,,这样也没关系!
+Dialogue: 0,0:11:15.11,0:11:16.57,Tsurezure Children,,0,0,0,,那是残像哟
+Dialogue: 0,0:11:19.95,0:11:21.16,Tsurezure Children,,0,0,0,,放弃吧小猫咪
+Dialogue: 0,0:11:21.37,0:11:23.08,Tsurezure Children,,0,0,0,,谁也没法抓住我
+Dialogue: 0,0:11:25.58,0:11:26.54,Tsurezure Children,,0,0,0,,这样的话
+Dialogue: 0,0:11:26.92,0:11:30.42,Tsurezure Children,,0,0,0,,来吧 像刚刚救那只猫一样救我吧
+Dialogue: 0,0:11:30.67,0:11:31.71,Tsurezure Children,,0,0,0,,喵
+Dialogue: 0,0:11:31.88,0:11:33.38,Tsurezure Children,,0,0,0,,救救我 喵～
+Dialogue: 0,0:11:33.92,0:11:35.26,Tsurezure Children,,0,0,0,,让人困扰的小猫咪呢
+Dialogue: 0,0:11:40.60,0:11:42.01,Tsurezure Children,,0,0,0,,滑～
+Dialogue: 0,0:11:49.27,0:11:50.48,Tsurezure Children,,0,0,0,,{\an8}血 血要
+Dialogue: 0,0:11:50.61,0:11:53.11,Tsurezure Children,,0,0,0,,{\an8}没事的 白天吃的意大利面条而已
+Dialogue: 0,0:11:53.36,0:11:56.11,Tsurezure Children,,0,0,0,,{\an8}对不起 都怪我做愚蠢的事情
+Dialogue: 0,0:11:56.53,0:11:58.99,Tsurezure Children,,0,0,0,,{\an8}愚蠢的事? 指什么?
+Dialogue: 0,0:12:00.91,0:12:04.29,Tsurezure Children,,0,0,0,,{\an8}救助受困的小猫咪是王子的职责呀
+Dialogue: 0,0:12:06.21,0:12:06.87,Tsurezure Children,,0,0,0,,{\an8}喜欢!
+Dialogue: 0,0:12:07.46,0:12:08.54,Tsurezure Children,,0,0,0,,{\an8}再见啦 小猫咪
+Dialogue: 0,0:12:08.87,0:12:10.50,Tsurezure Children,,0,0,0,,{\an8}不要再做危险的事情了哦
+Dialogue: 0,0:12:11.17,0:12:14.00,Tsurezure Children,,0,0,0,,{\an8}最后 最后至少告诉我名字
+Dialogue: 0,0:12:15.80,0:12:17.26,Tsurezure Children,,0,0,0,,{\an8}香取慎一
+Dialogue: 0,0:12:17.59,0:12:18.55,Tsurezure Children,,0,0,0,,{\an8}拜拜
+Dialogue: 0,0:12:20.01,0:12:23.56,Tsurezure Children,,0,0,0,,{\an8}香取前辈!
+Dialogue: 0,0:12:26.60,0:12:28.91,Tsurezure Children,,0,0,0,,下集 都是发烧的错
+Comment: 0,0:00:55.12,0:00:57.12,Tsurezure Children,,0,0,0,,-------------------OP-------------------
+Dialogue: 0,0:00:10.95,0:00:17.87,children opjp,,0,0,0,,{\fad(150,150)}些細な出来事さえも特別だって思うよ
+Dialogue: 0,0:00:18.21,0:00:24.63,children opjp,,0,0,0,,{\fad(150,150)}ほらね今も君のこと考えちゃうの
+Dialogue: 0,0:00:25.59,0:00:32.47,children opjp,,0,0,0,,{\fad(150,150)}好きと嫌い交互に数えてゆく占い
+Dialogue: 0,0:00:32.68,0:00:36.31,children opjp,,0,0,0,,{\fad(150,150)}2分の (1の) 確率 (それじゃ)
+Dialogue: 0,0:00:36.39,0:00:40.40,children opjp,,0,0,0,,{\fad(150,150)}踏み出せないね
+Dialogue: 0,0:00:41.23,0:00:48.70,children opjp,,0,0,0,,{\fad(150,150)}きっと あぁ この関係は曖昧模糊っていうのかな
+Dialogue: 0,0:00:48.86,0:00:54.16,children opjp,,0,0,0,,{\fad(150,150)}徒然でも I wish I feel my sweet
+Dialogue: 0,0:00:54.33,0:00:58.25,children opjp,,0,0,0,,{\fad(150,150)}大事にしなくちゃ
+Dialogue: 0,0:00:10.95,0:00:17.87,children opch,,0,0,0,,{\fad(150,150)}微不足道的事情也会觉得很特别
+Dialogue: 0,0:00:18.21,0:00:24.63,children opch,,0,0,0,,{\fad(150,150)}此时此刻也在想念着你的事情
+Dialogue: 0,0:00:25.59,0:00:32.47,children opch,,0,0,0,,{\fad(150,150)}喜欢与讨厌相互交替的占卜
+Dialogue: 0,0:00:32.68,0:00:36.31,children opch,,0,0,0,,{\fad(150,150)}一半一半的概率的话
+Dialogue: 0,0:00:36.39,0:00:40.40,children opch,,0,0,0,,{\fad(150,150)}还是跨不出这一步
+Dialogue: 0,0:00:41.23,0:00:48.70,children opch,,0,0,0,,{\fad(150,150)}我们的关系可以说是暧昧模糊吗
+Dialogue: 0,0:00:48.86,0:00:54.16,children opch,,0,0,0,,{\fad(150,150)}虽然无聊但还是希望能感受到属于我的甜蜜
+Dialogue: 0,0:00:54.33,0:00:58.25,children opch,,0,0,0,,{\fad(150,150)}要珍视这份感情
+Comment: 0,0:00:55.12,0:00:57.12,Tsurezure Children,,0,0,0,,-------------------ED-------------------
+Dialogue: 0,0:11:44.14,0:11:50.44,children edjp,,0,0,0,,{\fad(150,150)\blur5}閉じ込めたくて  だけど
+Dialogue: 0,0:11:50.56,0:11:55.86,children edjp,,0,0,0,,{\fad(150,150)\blur5}あなたに出会えたことで
+Dialogue: 0,0:11:56.15,0:12:02.41,children edjp,,0,0,0,,{\fad(150,150)\blur5}強くいられたんだ ずっと
+Dialogue: 0,0:12:02.45,0:12:07.58,children edjp,,0,0,0,,{\fad(150,150)\blur5}明日も目が覚めたとき
+Dialogue: 0,0:12:07.96,0:12:13.46,children edjp,,0,0,0,,{\fad(150,150)\blur5}すぐ隣にいる  と思ってた
+Dialogue: 0,0:12:13.55,0:12:19.55,children edjp,,0,0,0,,{\fad(150,150)\blur5}ただそれだけでいいのに
+Dialogue: 0,0:11:44.14,0:11:50.44,children edch,,0,0,0,,{\fad(150,150)\blur5}锁进我的心里  但是
+Dialogue: 0,0:11:50.56,0:11:55.86,children edch,,0,0,0,,{\fad(150,150)\blur5}想与你相见这件事
+Dialogue: 0,0:11:56.15,0:12:02.41,children edch,,0,0,0,,{\fad(150,150)\blur5}却很需要勇气  一直如此
+Dialogue: 0,0:12:02.45,0:12:07.58,children edch,,0,0,0,,{\fad(150,150)\blur5}明明只是希望
+Dialogue: 0,0:12:07.96,0:12:13.46,children edch,,0,0,0,,{\fad(150,150)\blur5}明天当我  睁开眼的时候
+Dialogue: 0,0:12:13.55,0:12:19.55,children edch,,0,0,0,,{\fad(150,150)\blur5}你能在我身旁而已
