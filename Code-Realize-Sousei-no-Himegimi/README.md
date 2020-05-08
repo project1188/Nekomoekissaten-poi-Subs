@@ -24,4 +24,4 @@ DFPenJi-W4
 
 ep.13 (OVA) 日版Blu-Ray未收录（美版BD有收录），故使用Web源制作
 
-[OVA简体字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/Code-Realize-Sousei-no-Himegimi/coderealize-anime_OVA_Web.7z)
+[OVA简繁字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/Code-Realize-Sousei-no-Himegimi/coderealize-anime_OVA_Web.7z)
