@@ -2,7 +2,7 @@
 
 # 字幕
 
-## 中日双语
+## 中文字幕
 
 [Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Tsugumomo_S2/Tsugumomo_S2_Web_CHS.7z)
 
