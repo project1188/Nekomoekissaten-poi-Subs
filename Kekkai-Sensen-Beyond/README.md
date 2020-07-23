@@ -1,6 +1,4 @@
-![](poster.jpg)
-
-# 字幕
+# BD字幕
 
 所需字体：
 ```
@@ -28,3 +26,11 @@ Times New Roman
 ## 繁体中文
 
 [BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kekkai-Sensen-Beyond/Kekkai-Sensen-Beyond_BD_CHT.7z)
+
+# Web字幕
+
+[Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kekkai-Sensen-Beyond/Kekkai-Sensen-Beyond_Web_Chi.7z)
+
+[Web日文合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kekkai-Sensen-Beyond/Kekkai-Sensen-Beyond_Web_Jpn.7z)
+
+![](poster.jpg)
