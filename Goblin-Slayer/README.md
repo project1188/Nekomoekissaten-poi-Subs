@@ -1,7 +1,5 @@
 # 字幕
 
-![](poster.jpg)
-
 ## TV 哥布林杀手
 
 ### BD
@@ -64,3 +62,13 @@ FOT-ModeMinBLarge Std B
 ```
 
 ## 剧场版 哥布林杀手 GOBLIN’S CROWN
+
+[剧场版中日双语BD字幕下载]()
+
+所需字体：
+```
+FOT-ModeMinBLarge Std B
+FOT-スーラ ProN B <FOT-Seurat ProN B>
+FOT-スーラ ProN DB <FOT-Seurat ProN DB>
+方正兰亭圆_GBK_中
+```
