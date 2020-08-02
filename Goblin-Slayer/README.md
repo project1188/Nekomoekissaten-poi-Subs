@@ -63,7 +63,7 @@ FOT-ModeMinBLarge Std B
 
 ## 剧场版 哥布林杀手 GOBLIN’S CROWN
 
-[剧场版中日双语BD字幕下载]()
+[剧场版中日双语BD字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/contributors/master/Goblin-Slayer/Goblin-Slayer-Goblin%E2%80%99s-Crown_BD_JPCH.7z)
 
 所需字体：
 ```
