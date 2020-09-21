@@ -19,7 +19,7 @@ Style: opch,方正韵动中黑_GBK,39,&H00000000,&H000200ED,&H00FFFFFF,&H00C6C3C
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------staff------------
 Dialogue: 0,0:04:35.93,0:04:38.94,Default,,0,0,0,,{\fad(300,300)\blur3\bord2\an8\fs50}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途
-Dialogue: 0,0:04:38.94,0:04:41.94,Default,,0,0,0,,{\fad(300,300)\blur3\bord2\an8\fs40}翻譯：時の指輪  雨后飄雪  Hmiku  某科學的天天王子  校對：緒實  時軸：尤桐  後期: Poi  繁化: SashiharaRino  WebRip：飛翔  GCN  BDRip：MIR
+Dialogue: 0,0:04:38.94,0:04:41.94,Default,,0,0,0,,{\fad(300,300)\blur3\bord2\an8\fs40}翻譯：時の指輪  雨后飄雪  Hmiku  某科學的天天王子  校對：緒實\N時軸：尤桐  後期: Poi  繁化: SashiharaRino  WebRip：飛翔  GCN  BDRip：MIR
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------title------------
 Dialogue: 0,0:04:06.20,0:04:08.70,Default,,0,0,0,,{\bord0\c&H003F3F3F\fn方正卡通_GBK\frz333.9\pos(744,533.333)}臘月是你的謊言
 Dialogue: 0,0:23:38.66,0:23:38.70,Default,,0,0,0,,{\c&H00000000\fax-0.15\fn方正韵动中黑_GBK\bord0\b1\fscx80\pos(111.999,747.999)}I''S(伊豆)
