@@ -1,6 +1,8 @@
-![](poster_fruba_S1.png)
+# 水果篮子
 
-# 字幕
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHS.7z)
+
+[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHT.7z)
 
 所需字体：
 ```
@@ -25,15 +27,44 @@ Source Han Serif CN SemiBold
 方正隶变_GBK
 ```
 
-## 简体中文
-
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHS.7z)
-
-## 繁体中文
-
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHT.7z)
-
 ## 日文字幕
 
  - 原盘自带 PGS 字幕
  - [From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_JPN.7z)
+
+ # 水果篮子 2nd Season
+
+[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHS.7z)
+
+[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHT.7z)
+
+所需字体：
+```
+FOT-TsukuARdGothic Std M
+FOT-パール Std L <FOT-Pearl Std L>
+Gen Jyuu Gothic Regular
+HiraginoMin W5
+方正FW珍珠体 简繁 <FZFW ZhenZhuTiJF L>
+方正大雅宋_GBK <FZYaSong-EB-GBK>
+方正行楷_GBK <FZXingKai-S04>
+方正剪纸_GBK
+方正卡通_GBK
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭黑Pro Global Heavy
+方正兰亭圆_GBK
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_大
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+方正兰亭圆_GBK_中粗
+方正兰亭圆_GBK_准
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正锐正黑_GBK Medium <FZRuiZhengHei_GBK Medium>
+方正特雅宋_GBK <FZYaSong-H-GBK>
+方正中粗雅宋_GBK <FZYaSong-DB1-GBK>
+方正中雅宋_GBK <FZYaSong-DB-GBK>
+方正筑紫明朝宋 简繁
+方正准雅宋_GBK <FZYaSong-M-GBK>
+```
+
+ ![](poster_fruba.png)
