@@ -41,7 +41,7 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 ## 日文
 
-来源为Netflix，未调轴
+来源为Netflix，轴大致适配Web源
 
 [日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kanokari/Kanokari_JPN.7z)
 
