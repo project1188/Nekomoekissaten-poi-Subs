@@ -2,6 +2,8 @@
 
 # 字幕
 
+内含正文1-12中日双语字幕及小剧场简繁中文字幕
+
 所需字体：
 ```
 FOT-スーラ Pro DB <FOT-Seurat Pro DB>
@@ -24,8 +26,8 @@ FOT-筑紫A丸ゴシック Std D <FOT-TsukuARdGothic Std D>
 
 ## 简日双语
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv/Koisuru_Asteroid_Web_JPSC.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv/Koisuru_Asteroid_BD_JPSC.7z)
 
 ## 繁日双语
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv/Koisuru_Asteroid_Web_JPTC.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv/Koisuru_Asteroid_BD_JPTC.7z)
