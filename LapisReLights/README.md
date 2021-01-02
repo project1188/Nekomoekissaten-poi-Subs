@@ -4,9 +4,9 @@
 
 内含正片01-12
 
-[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_Web_JPSC.7z)
+[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_BD_JPSC.7z)
 
-[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_Web_JPTC.7z)
+[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_BD_JPTC.7z)
 
 所需字体：
 ```

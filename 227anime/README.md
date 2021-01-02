@@ -1,4 +1,4 @@
-![](227.jpg)
+01-13集
 
 # 字幕
 
@@ -18,8 +18,10 @@ FOT-モード明朝Bラージ Std B <FOT-ModeMinBLarge Std B>
 
 ## 简日双语
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/227anime/227_Web_JPSC.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/227anime/227_BD_JPSC.7z)
 
 ## 繁日双语
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/227anime/227_Web_JPTC.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/227anime/227_BD_JPTC.7z)
+
+![](227.jpg)
