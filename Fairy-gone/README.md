@@ -1,5 +1,7 @@
 # Fairy-gone
 
+字幕内封 Fairy gone OP_0.ttf
+
 [BD简日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Fairy-gone/Fairy_gone_BD_JPSC.7z)
 
 [BD繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Fairy-gone/Fairy_gone_BD_JPTC.7z)
