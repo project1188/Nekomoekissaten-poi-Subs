@@ -1,12 +1,11 @@
 # 字幕
 
-![](poster.jpg)
-
 ## TV 青春笨蛋少年不做兔女郎学姐的梦
 
 01-13简繁字幕
 
-[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Ao-buta/Ao-buta_TV_BD_CHI.7z)
+[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Ao-buta/Ao-buta_TV_BD_CHI.7z)  
+TV日字来自AT-X，未调轴匹配
 
 所需字体：
 ```
@@ -49,3 +48,5 @@ Source Han Serif JP Medium
 方正行楷_GBK
 思源宋体 CN Medium
 ```
+
+![](poster.jpg)
