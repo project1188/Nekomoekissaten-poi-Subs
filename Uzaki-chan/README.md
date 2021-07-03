@@ -4,9 +4,8 @@
 
 内含正片01-12
 
-[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_Web_CHS.7z)
-
-[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_Web_CHT.7z)
+[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_BD_CHS.7z)  
+[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_BD_CHT.7z)
 
 所需字体：
 ```
@@ -34,6 +33,6 @@ zpix
 
 来源为AT-X，未调轴
 
-[TV日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_Web_JPN.7z)
+[TV日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_JPN.7z)
 
-![](poster.png)
+![](Uzaki-chan_poster.png)
