@@ -1,7 +1,6 @@
 # 水果篮子
 
-[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHS.7z)
-
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHS.7z)  
 [繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHT.7z)
 
 所需字体：
@@ -32,10 +31,9 @@ Source Han Serif CN SemiBold
  - 原盘自带 PGS 字幕
  - [From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_JPN.7z)
 
- # 水果篮子 2nd Season
+# 水果篮子 2nd Season
 
-[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHS.7z)
-
+[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHS.7z)  
 [繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHT.7z)
 
 所需字体：
@@ -67,4 +65,22 @@ HiraginoMin W5
 方正准雅宋_GBK <FZYaSong-M-GBK>
 ```
 
- ![](poster_fruba.png)
+# 水果篮子 The Final
+
+[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba3_Web_CHS.7z)  
+[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba3_Web_CHT.7z)
+
+所需字体：
+```
+FOT-CookHand Std R
+Gen Jyuu Gothic Regular
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正准雅宋_GBK
+华康手札体W5
+華康手札體W5
+```
+
+![](poster_fruba.png)
