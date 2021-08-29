@@ -1,12 +1,10 @@
 # 字幕
 
-## 简繁日双语
+## 中日双语
 
-内含正片01-12
+内含正片 01-12 BD 字幕
 
-[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_BD_JPSC.7z)
-
-[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_BD_JPTC.7z)
+[BD简日双语+繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights/LapisReLights_BD_JPCH.7z)
 
 所需字体：
 ```
