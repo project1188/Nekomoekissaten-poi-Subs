@@ -2,9 +2,7 @@
 
 01-12
 
-[Web简日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kamisama-day/Kamisama-day_Web_JPSC.7z)
-
-[Web繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kamisama-day/Kamisama-day_Web_JPTC.7z)
+[BD中日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kamisama-day/Kamisama-day_BD_JPCH.7z)
 
 所需字体
 ```
