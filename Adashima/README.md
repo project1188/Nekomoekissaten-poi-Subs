@@ -1,10 +1,8 @@
 # Adachi to Shimamura
 
-01-12+PV2
+01-12
 
-[Web简体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Adashima/Adashima_Web_CHS.7z)
-
-[Web繁体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Adashima/Adashima_Web_CHT.7z)
+[BD简繁合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Adashima/Adashima_BD_zho.7z)
 
 所需字体
 ```
