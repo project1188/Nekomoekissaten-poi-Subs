@@ -45,4 +45,4 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 [日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kanokari/Kanokari_JPN.7z)
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-07/kanokari.jpg)

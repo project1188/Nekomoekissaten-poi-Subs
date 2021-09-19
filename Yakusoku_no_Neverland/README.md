@@ -25,4 +25,4 @@ FOT-筑紫オールドゴシック Std B <FOT-TsukuOldGothic Std B>
 
 [日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Yakusoku_no_Neverland/Neverland_S1_JPN.7z)
 
-![](Neverland_poster.png)
+![](https://nekomoe.pages.dev/images/2019-01/neverland.png)

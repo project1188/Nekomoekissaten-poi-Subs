@@ -1,4 +1,4 @@
-![](heyacamp.jpg)
+![](https://nekomoe.pages.dev/images/2020-01/heyacamp.jpg)
 
 本字幕为与 **千夏字幕组（Airota）** 合作作品
 

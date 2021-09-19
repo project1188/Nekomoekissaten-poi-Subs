@@ -32,5 +32,3 @@ Times New Roman
 [Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kekkai-Sensen-Beyond/Kekkai-Sensen-Beyond_Web_Chi.7z)
 
 [Web日文合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kekkai-Sensen-Beyond/Kekkai-Sensen-Beyond_Web_Jpn.7z)
-
-![](poster.jpg)

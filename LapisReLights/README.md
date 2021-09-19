@@ -28,4 +28,4 @@ MYoyo PRC Medium
 MYoyo HK Medium
 ```
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-07/LRL.jpg)

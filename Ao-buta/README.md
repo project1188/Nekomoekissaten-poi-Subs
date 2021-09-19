@@ -49,4 +49,4 @@ Source Han Serif JP Medium
 思源宋体 CN Medium
 ```
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2018-10/ao-buta.jpg)

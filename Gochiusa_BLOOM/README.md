@@ -32,4 +32,4 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
 
-![](Gochiusa_BLOOM_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/gochiusaBLOOM.jpg)

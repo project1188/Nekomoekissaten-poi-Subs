@@ -60,4 +60,4 @@ FOT-Rodin Pro DB
 
 1. 2021-06-16 BDRip发布
 
-![](Kotobuki_poster.png)
+![](https://nekomoe.pages.dev/images/2019-01/kotobuki.png)

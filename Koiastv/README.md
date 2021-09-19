@@ -1,4 +1,4 @@
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-01/koiastv.jpg)
 
 # 字幕
 

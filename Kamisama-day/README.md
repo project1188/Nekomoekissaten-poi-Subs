@@ -22,4 +22,4 @@ FOT-筑紫Aオールド明朝 Pr6N D <FOT-TsukuAOldMin Pr6N D>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
 
-![](kamisama-day_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/kamisama-day.jpg)

@@ -25,4 +25,4 @@ HOT-FKaisho Std B
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-07/Appare-Ranman.jpg)

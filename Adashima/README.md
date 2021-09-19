@@ -21,4 +21,4 @@ Zpix
 華康手札體W7
 ```
 
-![](adashima_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/adashima.jpg)

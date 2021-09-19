@@ -27,4 +27,4 @@ FOT-NewCezanne ProN DB
 方正字迹-杨素彬楷 简繁
 ```
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-04/kakushigoto.jpg)

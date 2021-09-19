@@ -1,4 +1,4 @@
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2017-10/coderealize-anime.jpg)
 
 # 字幕
 

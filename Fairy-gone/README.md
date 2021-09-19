@@ -19,4 +19,4 @@ Monotype Corsiva
 方正悠宋 GBK 509R <FZYouSong GBK 509R>
 ```
 
-![](Fairy_gone_poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-10/fairy_gone.jpg)

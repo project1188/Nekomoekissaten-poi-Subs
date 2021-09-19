@@ -24,4 +24,4 @@ FOT-モード明朝Bラージ Std B <FOT-ModeMinBLarge Std B>
 
 [BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/227anime/227_BD_JPTC.7z)
 
-![](227.jpg)
+![](https://nekomoe.pages.dev/images/2020-01/227.jpg)

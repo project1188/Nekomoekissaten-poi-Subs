@@ -25,4 +25,4 @@ FOT-スーラ ProN B <FOT-Seurat ProN B>
 華康手札體W7
 ```
 
-![](Oregairu_poster.png)
+![](https://nekomoe.pages.dev/images/2020-07/oregairu.png)

@@ -20,4 +20,4 @@ FOT-UDKakugo_Large Pr6N DB
 方正兰亭黑Pro Global Demibold
 方正兰亭圆_GBK_中
 ```
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-04/singyesterday.jpg)

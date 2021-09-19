@@ -26,4 +26,4 @@ FOT-キアロ Std B <FOT-Chiaro Std B>
 
 # 海报
 
-![](cutiey_honey_u_poster.png)
+![](https://nekomoe.pages.dev/images/2018-04/cutiey_honey_u.png)

@@ -1,4 +1,4 @@
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-04/towerofGod.png)
 
 # 字幕
 

@@ -1,4 +1,4 @@
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/208-10/RELEASETHESPYCE.jpg)
 
 # 字幕
 

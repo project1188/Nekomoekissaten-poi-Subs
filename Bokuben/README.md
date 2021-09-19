@@ -4,4 +4,4 @@
 
 [日文字幕Web合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Bokuben/Bokuben_Web_JPN.7z)
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-04/boku-ben.jpg)

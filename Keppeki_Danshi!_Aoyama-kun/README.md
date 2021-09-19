@@ -22,4 +22,4 @@ G-OTF Shin maru Go Pro M
 华文中宋 <STZhongsong>
 ```
 
-![](Aoyama-kun_poster.jpg)
+![](https://nekomoe.pages.dev/images/2017-07/aoyama-kun.jpg)

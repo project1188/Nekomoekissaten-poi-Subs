@@ -83,4 +83,5 @@ Gen Jyuu Gothic Regular
 華康手札體W5
 ```
 
-![](poster_fruba.png)
+![](https://nekomoe.pages.dev/images/2019-04/fruba.png)
+![](https://nekomoe.pages.dev/images/2021-04/fruba-final.jpg)

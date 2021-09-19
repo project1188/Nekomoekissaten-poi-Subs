@@ -1,2 +1,1 @@
-# Irozuku-Sekai-no-Ashita-kara-BD
-![](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/Irozuku-Sekai-no-Ashita-kara-BD/blob/master/poster.jpg)
+![](https://nekomoe.pages.dev/images/2018-10/Irozuku.jpg)

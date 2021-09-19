@@ -35,4 +35,4 @@ zpix
 
 [TV日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan/Uzaki-chan_JPN.7z)
 
-![](Uzaki-chan_poster.png)
+![](https://nekomoe.pages.dev/images/2020-07/uzakichan.png)

@@ -1,1 +1,0 @@
-![](ZLS_poster.png)
