@@ -4,14 +4,12 @@
 
 ## 中日双语字幕
 
-[Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/argo-bdp/argo-bdp_Web_JPSC.7z)
-
-[Web繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/argo-bdp/argo-bdp_Web_JPTC.7z)
+[BD 简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/argo-bdp/argo-bdp_BD_JPCH.7z)
 
 所需字体：
 ```
 DFSoGei-W7
-FOT-Skip Std B
+FOT-Skip ProN B
 FOT-UDKakugo_Large Pr6 DB
 TrueLineG-Medium
 方正大雅宋_GBK <FZYaSong-EB-GBK>
