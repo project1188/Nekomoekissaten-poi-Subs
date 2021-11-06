@@ -1,6 +1,8 @@
-![](https://nekomoe.pages.dev/images/2020-01/somali.png)
-
 # 字幕
+
+## 中文
+
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Somali-anime/Somali-anime_BD_zho.7z)
 
 所需字体：
 ```
@@ -10,16 +12,8 @@ FOT-UD角ゴ_ラージ Pr6N DB <FOT-UDKakugo_Large Pr6N DB>
 方正书宋_GBK <FZShuSong-Z01>
 ```
 
-## 简体中文
-
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Somali-anime/Somali-anime_Web_CHS.7z)
-
-## 繁体中文
-
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Somali-anime/Somali-anime_Web_CHT.7z)
-
 ## 日文
 
-来源于 Netflix，未进行调轴适配。
+[Netflix 日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Somali-anime/Somali-anime_JPN.7z)
 
-[Original ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Somali-anime/Somali-anime_JPN.7z)
+![](https://nekomoe.pages.dev/images/2020-01/somali.png)
