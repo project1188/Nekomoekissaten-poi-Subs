@@ -1,5 +1,9 @@
 # Hensuki
 
+[EP.01-12 简繁 BDRip 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Hensuki_BDRip_zho.7z)
+
+[Vol.1-Vol.3 (EP.01-12) 简繁 BDMV 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Hensuki_BDMV_zho.7z)  *如与 BDRip 字幕内容有冲突以 BDRip 版本为准*
+
 ## 所需字体
 
 ```
