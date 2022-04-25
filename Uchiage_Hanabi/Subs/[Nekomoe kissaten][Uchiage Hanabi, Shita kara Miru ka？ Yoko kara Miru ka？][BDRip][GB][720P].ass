@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 烟花.mkv
-Video File: 烟花.mkv
+Audio File: ../[Airota&VCB-Studio] Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka [720p]/[Airota&VCB-Studio] Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka [720p][x264_aac][chs].mp4
+Video File: ../[Airota&VCB-Studio] Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka [720p]/[Airota&VCB-Studio] Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka [720p][x264_aac][chs].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1066
-Active Line: 1106
-Video Position: 13947
+Scroll Position: 703
+Active Line: 709
+Video Position: 83334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -752,7 +752,7 @@ Dialogue: 0,0:57:28.20,0:57:30.52,Default,,0,0,0,,{\blur3}要是不能当陪酒�
 Dialogue: 0,0:57:30.94,0:57:32.60,Default,,0,0,0,,{\blur3}进军演艺圈怎么样?
 Dialogue: 0,0:57:33.10,0:57:34.83,Default,,0,0,0,,{\blur3}你要去做偶像啊?
 Dialogue: 0,0:57:35.46,0:57:38.26,Default,,0,0,0,,{\blur3}不行吗 我觉得我挺适合呢
-Dialogue: 0,0:57:55.25,0:57:56.83,Default,,0,0,0,,{\blur3}哎? 这是什么歌
+Dialogue: 0,0:57:55.72,0:57:56.82,Default,,0,0,0,,{\blur3}这是什么歌
 Dialogue: 0,0:57:58.66,0:58:01.16,Default,,0,0,0,,{\blur3}这是我妈妈经常在卡拉OK唱的歌
 Dialogue: 0,0:58:01.74,0:58:04.16,Default,,0,0,0,,{\blur3}是松田圣子这个人唱的
 Dialogue: 0,0:58:04.66,0:58:07.20,Default,,0,0,0,,{\blur3}从小经常听 就记住了
