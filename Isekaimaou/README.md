@@ -18,4 +18,7 @@ Web -> BD：
 2. 修正繁体中文字幕 ED 缺字
 3. 使用*方正字迹-白关手绘 简繁*代替简体（GB2312）与繁体（GB12345）两个字体并处理相应样式
 
+BD fix:
+1. *2022-04-27*  EP.08 增加新对话字幕及调整时轴以适配 BD
+
 ![](https://nekomoe.pages.dev/images/20121-04/isekaimaou-s2.jpg)
