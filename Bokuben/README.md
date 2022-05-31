@@ -4,7 +4,13 @@
 
 [S1 日文字幕 Web 合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Bokuben/Bokuben_Web_JPN.7z)
 
-所需字体
+## ChangeLog
+
+2022-05-31:
+- 修复 S02EP01 1m6s 左右错误的字体大小
+
+## 所需字体
+
 ```
 Love Live v909
 ＤＦＰハンジペンW3 <DFPHanziPen-W3>
