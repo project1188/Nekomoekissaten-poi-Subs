@@ -10,9 +10,7 @@ PlayResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正准圆_GBK,45,&H00FFFFFF,&H000017FF,&H00438FF1,&H0016A055,0,0,0,0,100,100,2,0,1,2,0,2,15,15,15,1
-Style: yuru - EDCH,方正细黑一_GBK,42,&H00FFFFFF,&H000019FF,&H00ABDCFA,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,25,10,15,1
 Style: yuru - EDJP,FOT-Humming ProN D,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
-Style: yuru - OPCH,方正正准黑_GBK,42,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,15,15,15,1
 Style: yuru - OPJP,FOT-Skip ProN D,55,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
 Style: yuru - EDJP -2,FOT-Humming ProN D,36,&H00FFFFFF,&H000019FF,&H007FC3F3,&H00000000,0,0,0,0,100,100,2,0,1,3,0,2,15,15,15,1
 Style: yuru - EDCN,方正正黑_GBK,40,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,15,15,15,1
