@@ -25,7 +25,8 @@ FOT-ハミング ProN D <FOT-Humming ProN D>
 
 # 室内露营
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Heyacamp_BD_zho.7z)
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Heyacamp_BD_zho.7z)  
+内含本篇 EP.01-12 (后期 by poi@喵萌奶茶屋) + SP (后期 by 太刀@千夏字幕组)
 
 所需字体：
 ```
