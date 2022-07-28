@@ -11,8 +11,8 @@ PlayResY: 720
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正准圆_GBK,45,&H00FFFFFF,&H000017FF,&H00438FF1,&H0016A055,0,0,0,0,100,100,2,0,1,2,0,2,15,15,15,1
 Style: yuru - EDCN,方正正黑_GBK,40,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,15,15,15,1
-Style: yuru - EDJP,FOT-Humming Std D,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
-Style: yuru - OPJP,FOT-Skip Std D,55,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: yuru - EDJP,FOT-Humming ProN D,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: yuru - OPJP,FOT-Skip ProN D,55,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
 Style: yuru - OPCN,方正正黑_GBK,47,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
 Style: Default - up,方正准圆_GBK,45,&H00FFFFFF,&H000017FF,&H00438FF1,&H0016A055,0,0,0,0,100,100,2,0,1,2,0,8,15,15,15,1
 
